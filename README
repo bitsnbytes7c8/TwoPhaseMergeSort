@@ -1,4 +1,4 @@
-The input file should be of the form of columns, each column containing a single string (without spaces, columns separated by two spaces)
+The input file should be of the form of columns, each column of each row containing a single string (without spaces, columns separated by two spaces)
 
 To run the code:
 
